@@ -1,4 +1,4 @@
-const API_URL = 'https://pwa-deploy-backend-fn38.onrender.com/api/complaints';
+const API_URL = 'https://pwa-deploy-backend-fn38.onrender.com';
 
 document.getElementById('complaintForm').addEventListener('submit', async (e) => {
     e.preventDefault();
